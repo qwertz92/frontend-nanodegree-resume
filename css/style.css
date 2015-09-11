@@ -112,11 +112,17 @@ a {
 }
 
 .orange {
-  background-color: #f5ae23;
+  /* orange color:;
+    background-color: #f5ae23;
+  */
+  background-color: skyblue;
 }
 
 .orange-text {
-  color: #f5ae23;
+  /* orange color:;
+    color: #f5ae23;
+  */
+  color: skyblue;
 }
 
 .white-text {
@@ -136,7 +142,11 @@ a {
 
 /* TODO: Replace with image later */
 #header {
+  /*
   background-color: #484848;
+  */
+  background-image: url("../images/backgroundwood.jpg");
+
 }
 
 .flex-box {
@@ -206,6 +216,10 @@ span {
 
 #lets-connect {
   text-align: center;
+}
+
+.orangetext {
+  color: #f5ae23;
 }
 
 /*
