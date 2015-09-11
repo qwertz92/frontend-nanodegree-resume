@@ -111,14 +111,14 @@ a {
   display: none;
 }
 
-.orange {
+.blue {
   /* orange color:;
     background-color: #f5ae23;
   */
   background-color: skyblue;
 }
 
-.orange-text {
+.blue-text {
   /* orange color:;
     color: #f5ae23;
   */
@@ -218,7 +218,7 @@ span {
   text-align: center;
 }
 
-.orangetext {
+.orange-text {
   color: #f5ae23;
 }
 
